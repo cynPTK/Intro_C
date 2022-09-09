@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\cynth\Desktop\CS31\Final\Final1\main.cpp(11,35): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Final1.vcxproj -> C:\Users\cynth\Desktop\CS31\Final\Final1\x64\Debug\Final1.exe
