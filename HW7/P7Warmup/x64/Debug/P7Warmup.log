@@ -1,0 +1,3 @@
+﻿  main.cpp
+main.obj : error LNK2019: unresolved external symbol "public: void __cdecl Pet::eat(int)" (?eat@Pet@@QEAAXH@Z) referenced in function "void __cdecl careFor(class Pet *,int)" (?careFor@@YAXPEAVPet@@H@Z)
+C:\Users\cynth\Desktop\CS31\HW7\P7Warmup\x64\Debug\P7Warmup.exe : fatal error LNK1120: 1 unresolved externals

@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\cynth\Desktop\Projects\CS31\HW7\cyborgs\main.cpp(867,5): warning C5030: attribute 'gnu::unused' is not recognized
+  cyborgs.vcxproj -> C:\Users\cynth\Desktop\Projects\CS31\HW7\cyborgs\x64\Debug\cyborgs.exe
